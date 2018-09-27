@@ -1,1 +1,4 @@
 .DS_Store
+.data/orders/*
+.data/tokens/*
+.data/users/*
