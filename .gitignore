@@ -2,3 +2,4 @@
 .data/orders/*
 .data/tokens/*
 .data/users/*
+lib/config.js
