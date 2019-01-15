@@ -1,17 +1,17 @@
 {
-  "1": {
+  "APP1": {
     "name": "Garlic Knots",
     "price": 5,
-    "itemId": 1
+    "itemId": "APP1"
   },
-  "2": {
+  "PZ1": {
     "name": "Cheese Pizza",
     "price": 12,
-    "itemId": 2
+    "itemId": "PZ1"
   },
-  "3": {
+  "PZ2": {
     "name": "Pepperoni Pizza",
     "price": 12,
-    "itemId": 1
+    "itemId": "PZ2"
   }
 }
