@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Garlic Knots",
+    "price": 5
+  },
+  {
+    "name": "Cheese Pizza",
+    "price": 12
+  },
+  {
+    "name": "Pepperoni Pizza",
+    "price": 12
+  }
+]
